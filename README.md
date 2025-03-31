@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src="https://kuna.fish/imgs/logo_o.png" width=50% height=50%>
+#Hiiii :3
+this is where i put my projects
 
 <!--
 **Kv-na/Kv-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
