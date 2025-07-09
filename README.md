@@ -1,4 +1,4 @@
-<img src="https://kuna.fish/imgs/logo_o.png" width=50% height=50% /> 
+<img src="https://kuna.fish/imgs/logo_o.png" width=50% /> 
 
 # Hiiii :3
 this is where i put my projects
